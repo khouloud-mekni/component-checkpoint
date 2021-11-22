@@ -1,0 +1,19 @@
+img{
+    width: 230px;
+    margin-top: 20px;
+    border-radius: 40%;
+    box-shadow:  19px -19px 38px #290101,
+            -19px 19px 38px #110303;
+}
+.profile{
+    background-image: url(https://besthqwallpapers.com/Uploads/4-5-2020/131585/thumb2-red-abstract-waves-4k-minimal-red-wavy-background-material-design.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    height: 200px;
+    margin-bottom: 150px;
+    border-radius: 10%;
+    
+}
